@@ -1,1 +1,1 @@
-# mygitdemo
+# django based webapp
